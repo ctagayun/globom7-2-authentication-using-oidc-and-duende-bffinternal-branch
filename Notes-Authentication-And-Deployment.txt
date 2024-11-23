@@ -104,5 +104,8 @@ Module 7: Authentication and Deployment
                  Note: change the role of Roland to something than Admin. Publish the 
                  React app and do the dotnet run again to see if Add button is displayed
 
-    - Implementing OpenId Connect with Duende BFF
+    - Implementing OpenId Connect with Duende BFF Internal
         - https://app.pluralsight.com/ilx/video-courses/clips/9cffc5ca-3327-4791-8bfb-ebefe626c66d
+
+
+    - Implementing OpenId Connect with Duende BFF External
